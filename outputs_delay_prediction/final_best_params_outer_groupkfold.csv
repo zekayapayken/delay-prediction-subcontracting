@@ -1,2 +1,0 @@
-scheme,best_model,best_params
-outer_groupkfold,ridge,{'model__alpha': 60.89844859190754}

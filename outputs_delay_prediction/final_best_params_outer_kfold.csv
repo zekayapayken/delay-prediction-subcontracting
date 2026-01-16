@@ -1,2 +1,0 @@
-scheme,best_model,best_params
-outer_kfold,grad_boost,"{'model__learning_rate': 0.06624998030478993, 'model__max_depth': 3, 'model__n_estimators': 252, 'model__subsample': 0.7692681476866446}"
