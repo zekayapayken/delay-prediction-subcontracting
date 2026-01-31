@@ -64,7 +64,6 @@ Common columns used by the pipeline:
 - `Downtime_Risk`
 - `Quantity`
 - `Urgency_Level`
-- Optional: `LateFlag` (dropped if present)
 
 ## 3) How to run
 
