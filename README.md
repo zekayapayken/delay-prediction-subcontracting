@@ -1,6 +1,6 @@
 # Delay Prediction Pipeline (Subcontracted Production Orders)
 
-This repository contains a Python pipeline for predicting **non-negative delivery delay (in days)** for subcontracted production orders using tabular machine learning. The script builds an end-to-end workflow including **feature engineering**, **preprocessing**, **nested cross-validation**, **hyperparameter optimisation via RandomizedSearchCV**, **diagnostic plots**, **permutation importance**, and **risk profiling via K-means clustering**.
+This repository contains a Python pipeline for predicting **nonnegative delivery delay (in days)** for subcontracted production orders using tabular machine learning. The script builds an end-to-end workflow including **domain specific derived features**, **preprocessing**, **nested cross-validation**, **hyperparameter optimisation via RandomizedSearchCV**, **diagnostic plots**, **permutation importance**, and **risk profiling via K-means clustering**.
 
 ## 1) What the script does
 
